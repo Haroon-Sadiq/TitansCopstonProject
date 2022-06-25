@@ -154,6 +154,22 @@ import java.io.File;
 	        else
 	            return false;
 	    }
+	    
+	    
+	    public static void moveToElement(WebElement element) {
+	    	Actions action= new Actions(driver);
+	    	action.moveToElement(element).build().perform();;
+	    }
+	    
+	    public static void hardWait() {
+	    	try {
+				Thread.sleep(3000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	    }
+	    
 	}
 
 

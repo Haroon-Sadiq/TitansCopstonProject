@@ -50,11 +50,11 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                3,
+                4,
                 0,
-                3,
                 0,
-                1
+                0,
+                0
             ],
             backgroundColor: [
                 "#00B000",
@@ -93,7 +93,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 7) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 4) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -106,8 +106,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                0,
-                1
+                1,
+                0
             ],
             backgroundColor: [
                 "#00B000",
@@ -153,8 +153,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                   0,
-                   1
+                   1,
+                   0
                ],
                backgroundColor: [
                 "#00B000",
@@ -233,7 +233,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>Tek School Retail Website - Titans</td>
               <td>1</td>
-            <td>23 Jun 2022, 14:18</td>
+            <td>24 Jun 2022, 00:40</td>
     </tr>
   </tbody>
 </table>
@@ -348,52 +348,52 @@ $(document).ready(function() {
           <tr>
         <td class="tagname"><a href="report-feature_2532635166.html">Desktops Tab</a></td>
 
-        <td      class="passed"    >3</td>
+        <td      class="passed"    >4</td>
         <td >0</td>
-        <td     class="skipped"   >3</td>
         <td >0</td>
-        <td   class="undefined" >1</td>
-        <td class="total">7</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">4</td>
 
+        <td  class="passed"    >1</td>
         <td >0</td>
-        <td  class="failed"    >1</td>
         <td class="total">1</td>
 
-        <td class="duration" data-value="17000000">0.017</td>
-        <td class="failed">Failed</td>
+        <td class="duration" data-value="4590000000">4.590</td>
+        <td class="passed">Passed</td>
       </tr>
       </tbody>
 
   <tfoot class="total">
     <tr>
       <td></td>
-      <td>3</td>
+      <td>4</td>
       <td>0</td>
-      <td>3</td>
       <td>0</td>
-      <td>1</td>
-      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
 
+      <td>1</td>
       <td>0</td>
       <td>1</td>
-      <td>1</td>
 
-      <td class="duration">0.017</td>
+      <td class="duration">4.590</td>
       <td>1</td>
     </tr>
     <tr>
       <td></td>
-            <td>42.86%</td>
+            <td>100.00%</td>
       <td>0.00%</td>
-      <td>42.86%</td>
       <td>0.00%</td>
-      <td>14.29%</td>
+      <td>0.00%</td>
+      <td>0.00%</td>
       <td></td>
-      <td>0.00%</td>
       <td>100.00%</td>
-      <td></td>
-      <td></td>
       <td>0.00%</td>
+      <td></td>
+      <td></td>
+      <td>100.00%</td>
     </tr>
   </tfoot>
 </table>

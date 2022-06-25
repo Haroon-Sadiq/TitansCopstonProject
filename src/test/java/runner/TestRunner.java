@@ -12,7 +12,7 @@ import utilities.CucumberReportingConfig;
 		features = ".\\src\\test\\resources\\Features", 
 		glue = "stepDef", 
 		dryRun = false, 
-		tags ="@desktoptab2", 
+		tags ="@deskdestoptab1", 
 		monochrome = true,
 		strict = true,
 		plugin = {"pretty","html:target/site/cucumber-pretty","json:target/cucumber.json"},
@@ -24,7 +24,6 @@ public class TestRunner {
 
 	@AfterClass
 	public static void generateReport() {
-		
 		CucumberReportingConfig.reportConfig();
 	}
 }

@@ -79,7 +79,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>Tek School Retail Website - Titans</td>
               <td>1</td>
-            <td>21 Jun 2022, 22:59</td>
+            <td>23 Jun 2022, 23:05</td>
     </tr>
   </tbody>
 </table>
@@ -133,18 +133,18 @@ $(document).ready(function() {
         <tr>
           <td class="tagname">@retailpage1</td>
           <td >0</td>
-          <td      class="failed"    >1</td>
-          <td     class="skipped"   >4</td>
+          <td >0</td>
+          <td     class="skipped"   >5</td>
           <td >0</td>
           <td >0</td>
           <td class="total">5</td>
 
+          <td  class="passed"    >1</td>
           <td >0</td>
-          <td  class="failed"    >1</td>
           <td class="total">1</td>
 
-          <td class="duration" data-value="30052000000">30.052</td>
-          <td class="failed">Failed</td>
+          <td class="duration" data-value="1000000">0.001</td>
+          <td class="passed">Passed</td>
         </tr>
         </tbody>
 
@@ -187,12 +187,12 @@ $(document).ready(function() {
       </div>
 
   
-  <span class="lead-duration duration">30.052</span>
+  <span class="lead-duration duration">0.001</span>
 
 
-    <span data-toggle="collapse" class=" collapsable-control" data-target="#element-1">
+    <span data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#element-1">
     
-<div class="brief failed">
+<div class="brief passed">
   <span class="keyword indention">Scenario</span>
   <span class="name">Register as an Affiliate user with Cheque Payment Method</span>
   
@@ -203,7 +203,7 @@ $(document).ready(function() {
   </span>
   <div class="description indention"></div>
 
-  <div id="element-1" class="collapse collapsable-details  in ">
+  <div id="element-1" class="collapse collapsable-details ">
     
 
   <div class="inner-level hooks-element-before">
@@ -225,7 +225,7 @@ $(document).ready(function() {
             <span class="keyword indention">Before</span>
                           <span class="location name">stepDef.Initializer.beforeHooks(io.cucumber.java.Scenario)</span>
                         
-  <span class="lead-duration duration">3.278</span>
+  <span class="lead-duration duration">3.223</span>
 
           </div>
 
@@ -242,9 +242,9 @@ $(document).ready(function() {
 
     
 <div class="steps inner-level">
-    <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-3">
+    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#steps-3">
     
-<div class="brief failed">
+<div class="brief passed">
   <span class="keyword indention">Steps</span>
   <span class="name"></span>
   
@@ -254,14 +254,14 @@ $(document).ready(function() {
 
   </div>
 
-  <div id="steps-3" class="inner-level collapse collapsable-details  in ">
+  <div id="steps-3" class="inner-level collapse collapsable-details ">
           <div class="step">
         
-<div class="brief failed">
+<div class="brief skipped">
   <span class="keyword indention">When</span>
   <span class="name">User click on <span class="argument">'Register for an Affiliate Account'</span> link</span>
   
-  <span class="lead-duration duration">30.051</span>
+  <span class="lead-duration duration">0.000</span>
 
 </div>
 
@@ -269,46 +269,6 @@ $(document).ready(function() {
 
 
         
-
-  <div class="inner-level">
-    <div class="message indention">
-      <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-4">
-          <a>org.openqa.selenium.NoSuchElementException:</a>
-      </div>
-      <div id="msg-4" class="collapse collapsable-details  in ">
-        <pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[text()='Register for an affiliate account']&quot;}
-  (Session info: chrome=102.0.5005.115)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-TCR9FQT', ip: '192.168.1.96', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_321'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\HAROON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53366}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: e5f6b6a46549f8d227df6400c6c16f15
-*** Element info: {Using=xpath, value=//a[text()='Register for an affiliate account']}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy17.click(Unknown Source)
-	at pageObjects.RetailPageObject.clickOnlink(RetailPageObject.java:155)
-	at stepDef.RetailStepDefinition.user_click_on_link(RetailStepDefinition.java:81)
-	at &#10045;.User click on 'Register for an Affiliate Account' link(file:///C:/Users/Haroon%20Sadiq/eclipse-workspace1/us.tekschool.capstone.bddd/./src/test/resources/Features/RetailPage.feature:16)
-</pre>
-      </div>
-    </div>
-  </div>
 
 
         
@@ -447,6 +407,38 @@ Session ID: e5f6b6a46549f8d227df6400c6c16f15
 
     
 
+  <div class="inner-level hooks-element-after">
+        <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#after-4">
+      
+<div class="brief passed">
+  <span class="keyword indention">Hooks</span>
+  <span class="name"></span>
+  
+
+       <i class="chevron fa fa-fw"></i>
+  </div>
+
+    </div>
+
+    <div id="after-4" class="inner-level collapse collapsable-details ">
+              <div class="hook">
+          <div class="brief passed">
+            <span class="keyword indention">After</span>
+                          <span class="location name">stepDef.Initializer.afterHooks(io.cucumber.java.Scenario)</span>
+                        
+  <span class="lead-duration duration">0.588</span>
+
+          </div>
+
+                      
+
+          
+                    
+          
+  
+        </div>
+          </div>
+  </div>
 
   </div>
 </div>

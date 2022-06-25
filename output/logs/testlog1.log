@@ -875,3 +875,57 @@
 2022-06-23 00:16:41,859 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account InformationPASSED
 2022-06-23 14:18:15,167 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
 2022-06-23 14:18:22,272 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-23 23:01:37,926 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-23 23:01:42,741 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-23 23:02:23,028 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-23 23:02:26,170 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-23 23:02:26,245 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-23 23:02:29,627 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login option
+2022-06-23 23:02:31,830 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName haroonsadiq1@gmail.com
+2022-06-23 23:02:31,958 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  sadiq123
+2022-06-23 23:02:35,333 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-06-23 23:02:35,389 [main] INFO .\src\test\resources\input\log4j.properties - user Successfully loged in to myAccount
+2022-06-23 23:02:35,689 [main] INFO .\src\test\resources\input\log4j.properties - User clicked affilate link
+2022-06-23 23:03:17,015 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-23 23:04:51,721 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-23 23:04:55,034 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-23 23:04:55,148 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-23 23:05:10,981 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-23 23:05:46,960 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account Information started
+2022-06-23 23:05:50,499 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-23 23:05:50,595 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-23 23:05:53,895 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login option
+2022-06-23 23:05:56,080 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName haroonsadiq1@gmail.com
+2022-06-23 23:05:56,187 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  sadiq123
+2022-06-23 23:05:59,627 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-06-23 23:05:59,692 [main] INFO .\src\test\resources\input\log4j.properties - user Successfully loged in to myAccount
+2022-06-23 23:06:00,167 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on editAccount link
+2022-06-23 23:06:00,647 [main] INFO .\src\test\resources\input\log4j.properties - User entered edit account information
+2022-06-23 23:06:03,758 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Continue button
+2022-06-23 23:06:07,570 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account InformationPASSED
+2022-06-23 23:26:52,805 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-06-23 23:26:57,058 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-06-23 23:26:57,108 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-23 23:27:00,257 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-23 23:27:00,273 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-23 23:27:03,464 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-23 23:27:03,482 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-23 23:27:06,537 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabUNDEFINED
+2022-06-24 00:40:31,515 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-06-24 00:40:34,813 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 00:40:35,448 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 00:40:35,531 [main] INFO .\src\test\resources\input\log4j.properties - is present
+2022-06-24 00:40:35,562 [main] INFO .\src\test\resources\input\log4j.properties - Desktopsis present
+2022-06-24 00:40:35,592 [main] INFO .\src\test\resources\input\log4j.properties - Apple Cinema 30"is present
+2022-06-24 00:40:35,623 [main] INFO .\src\test\resources\input\log4j.properties - Canon EOS 5D Camerais present
+2022-06-24 00:40:35,657 [main] INFO .\src\test\resources\input\log4j.properties - HP LP3065is present
+2022-06-24 00:40:35,686 [main] INFO .\src\test\resources\input\log4j.properties - HTC Touch HDis present
+2022-06-24 00:40:35,716 [main] INFO .\src\test\resources\input\log4j.properties - iPhoneis present
+2022-06-24 00:40:35,748 [main] INFO .\src\test\resources\input\log4j.properties - iPod Classicis present
+2022-06-24 00:40:35,779 [main] INFO .\src\test\resources\input\log4j.properties - MacBookis present
+2022-06-24 00:40:35,810 [main] INFO .\src\test\resources\input\log4j.properties - MacBook Airis present
+2022-06-24 00:40:35,841 [main] INFO .\src\test\resources\input\log4j.properties - Palm Treo Prois present
+2022-06-24 00:40:35,872 [main] INFO .\src\test\resources\input\log4j.properties - Product 8is present
+2022-06-24 00:40:35,903 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
+2022-06-24 00:40:35,935 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
+2022-06-24 00:40:39,893 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED

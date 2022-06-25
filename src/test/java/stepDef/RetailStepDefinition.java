@@ -13,6 +13,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.Home;
 import pageObjects.RetailPageObject;
+import utilities.WebDriverUtility;
 
 
 public class RetailStepDefinition extends Base{
@@ -59,7 +60,7 @@ public void user_enter_username_and_password(String userName, String password) t
 public void user_click_on_login_button() {
    retail.clickLogButton();
    logger.info("User clicked on Login button");
-   
+   WebDriverUtility.takeScreenShot();
 }
 
 
@@ -136,6 +137,7 @@ public void user_should_see_a_success_message() {
 	} catch (InterruptedException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
+		
 	}
 
 	}
@@ -225,21 +227,19 @@ try {
 } catch (InterruptedException e) {
 	// TODO Auto-generated catch block
 	e.printStackTrace();
-}
-}
-
-
-
-@Then("User should see a message {string}")
-public void user_should_see_a_message(String string) {
 	
 }
+}
 
 
 
+@Then("User should see a messagee {string}")
+public void user_should_see_a_messagee(String string){
+Assert.assertTrue(retail.isEditAccountInfoSuccessMessagePresent());
+logger.info("success message has been displayed");
+WebDriverUtility.takeScreenShot();
 
 
-
-
+}
 
 }

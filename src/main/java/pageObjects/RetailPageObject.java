@@ -312,7 +312,8 @@ public class RetailPageObject extends Base {
 	@FindBy(xpath="//input[@value='Continue']")
 	private WebElement editContinueButton;
 	
-	
+	@FindBy(xpath = "//*[@id='account-account']/div[1]")
+	private WebElement successMessageEditAccountInfo;
 	
 	
 	public void clickOnEditAccountLink() {
@@ -331,7 +332,16 @@ public class RetailPageObject extends Base {
 		editContinueButton.click();
 	}
 	
-}
+	
+
+	public boolean isEditAccountInfoSuccessMessagePresent() {
+	if (successMessageEditAccountInfo.isDisplayed()) {
+	return true;
+	} else {
+	return false;
+	}
+	
+}}
 
 	
 	
