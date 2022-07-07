@@ -12,4 +12,5 @@ Feature: Home Page
   Scenario: User empty Shopping cart message displays
     Given User is on Retail website
     When User click on shopping cart
-    Then “Your shopping cart is empty!” message should display
+    Then "Your shopping cart is empty!" message should display
+	

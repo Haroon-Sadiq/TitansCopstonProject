@@ -929,3 +929,601 @@
 2022-06-24 00:40:35,903 [main] INFO .\src\test\resources\input\log4j.properties - Samsung SyncMaster 941BWis present
 2022-06-24 00:40:35,935 [main] INFO .\src\test\resources\input\log4j.properties - Sony VAIOis present
 2022-06-24 00:40:39,893 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabPASSED
+2022-06-24 19:04:45,110 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 19:04:50,976 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 19:04:51,505 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 19:04:52,269 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-24 20:06:01,080 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:06:05,010 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:06:05,596 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:06:05,661 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:06:06,437 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-24 20:06:47,680 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:06:52,651 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:06:53,401 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:06:53,450 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:06:56,508 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:06:56,601 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:06:57,404 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-24 20:08:17,127 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:08:42,384 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 20:08:51,427 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:08:54,874 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:08:55,507 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:08:55,568 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:08:59,091 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:09:02,167 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:09:05,939 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-24 20:10:36,663 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:10:40,486 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:10:41,057 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:10:41,127 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:10:44,336 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:10:47,416 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:10:51,285 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartUNDEFINED
+2022-06-24 20:25:45,960 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:25:50,156 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:25:50,862 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:25:50,924 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:25:58,090 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:26:01,207 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:26:04,299 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-24 20:26:05,126 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartPASSED
+2022-06-24 20:29:30,179 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:29:33,938 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:29:34,630 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:29:34,706 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:29:39,198 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:29:42,290 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:30:12,890 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 20:30:25,852 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:30:29,604 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:30:30,253 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:30:30,331 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:30:34,588 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:30:37,696 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:30:47,118 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 20:31:20,330 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:31:23,653 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:31:24,215 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:31:24,276 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:31:27,449 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:31:30,539 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:31:33,623 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-24 20:31:34,344 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartPASSED
+2022-06-24 20:32:19,884 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:32:23,335 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:32:23,883 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:32:23,934 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:32:27,153 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:32:30,216 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:32:33,307 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-24 20:32:34,305 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartPASSED
+2022-06-24 20:38:03,078 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:38:07,086 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:38:07,801 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:38:07,882 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:38:11,086 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:38:14,185 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:38:26,243 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 20:38:50,824 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:38:54,569 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:38:55,099 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:38:55,170 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:38:59,135 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:39:02,232 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:39:05,313 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-24 20:39:06,365 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartPASSED
+2022-06-24 20:39:39,496 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:39:43,131 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:39:43,757 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:39:43,816 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:39:48,108 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:39:51,196 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:40:00,256 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 20:40:08,211 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:40:11,815 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:40:12,525 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:40:12,593 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:40:15,765 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:40:18,850 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:40:46,812 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-24 20:40:47,833 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartPASSED
+2022-06-24 20:40:56,171 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:40:59,846 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:41:00,565 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:41:00,612 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:41:03,896 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:41:07,016 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:41:40,821 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 20:42:07,466 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 20:42:10,858 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:42:11,571 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:42:11,633 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 20:42:16,989 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 20:42:20,087 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 20:42:23,163 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-24 20:42:24,162 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartPASSED
+2022-06-24 20:56:57,273 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 20:57:01,250 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 20:57:01,883 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 20:57:02,623 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-24 22:18:16,075 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-24 22:18:20,366 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-06-24 22:19:00,734 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 22:19:04,632 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 22:19:05,272 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 22:19:05,351 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 22:19:08,698 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 22:19:11,805 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 22:19:37,112 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-24 22:22:23,762 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cart started
+2022-06-24 22:22:27,133 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-24 22:22:27,613 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-24 22:22:27,670 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to Cart Option
+2022-06-24 22:22:31,778 [main] INFO .\src\test\resources\input\log4j.properties - User selected quantity 1
+2022-06-24 22:22:34,861 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-24 22:23:08,700 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065  from Desktops tab to the cartFAILED
+2022-06-25 00:19:22,223 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:19:26,128 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-06-25 00:20:17,104 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:20:20,533 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:20:21,098 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:20:21,818 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:22:02,670 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:22:05,985 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:22:06,524 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:22:06,589 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to cart
+2022-06-25 00:22:09,029 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:26:54,485 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:26:58,265 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:26:58,780 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:26:59,549 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:29:04,842 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:29:08,147 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:29:08,634 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:29:09,339 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:29:15,025 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:29:18,404 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:29:18,940 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:29:19,644 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:30:43,588 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:30:46,897 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:30:47,423 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:30:48,122 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:31:47,155 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:31:51,204 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:31:51,708 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:31:51,756 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to cart
+2022-06-25 00:31:56,435 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on color
+2022-06-25 00:31:59,932 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 00:32:03,711 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartUNDEFINED
+2022-06-25 00:33:42,630 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-25 00:33:45,967 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 00:33:46,455 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 00:33:46,527 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to cart
+2022-06-25 00:33:51,247 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on color
+2022-06-25 00:33:54,813 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 00:33:57,923 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 00:33:58,676 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartPASSED
+2022-06-25 11:34:38,273 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:34:42,838 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:34:43,358 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:34:44,777 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 11:34:48,100 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 11:34:52,245 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabUNDEFINED
+2022-06-25 11:37:42,488 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:37:45,645 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:37:46,095 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:37:47,347 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 11:37:50,606 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 11:37:54,592 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 11:42:42,444 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:42:46,257 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:42:46,736 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:42:48,303 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 11:42:51,632 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 11:42:55,845 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 11:44:59,547 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:45:03,376 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:45:03,907 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:45:05,234 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 11:45:08,544 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 11:45:12,751 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 11:50:46,072 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:50:49,663 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:50:50,220 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:50:51,059 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 11:54:22,838 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:54:26,446 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:54:26,974 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:54:27,860 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 11:57:24,554 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 11:57:28,220 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 11:57:28,746 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 11:57:30,115 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 11:57:33,454 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 11:57:37,638 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:01:06,145 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:01:09,763 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:01:10,281 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:01:11,711 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:01:17,011 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:01:23,193 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:03:04,499 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:03:07,678 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:03:08,205 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:03:09,469 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:03:14,740 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:03:20,843 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:08:17,051 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:08:20,751 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:08:21,391 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:08:22,888 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:08:28,172 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:08:34,293 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:18:05,538 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:18:09,258 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:18:09,738 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:18:11,151 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:18:16,447 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:18:22,638 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:19:03,608 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-25 12:19:07,816 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changePENDING
+2022-06-25 12:19:07,827 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-25 12:19:10,977 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysPASSED
+2022-06-25 12:19:25,823 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-25 12:19:29,574 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changePENDING
+2022-06-25 12:19:29,583 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-25 12:19:32,456 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysPASSED
+2022-06-25 12:27:03,233 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:27:06,777 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:27:07,337 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:27:08,141 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabUNDEFINED
+2022-06-25 12:27:47,369 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:27:51,015 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:27:51,505 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:27:53,010 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:27:58,313 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:28:04,516 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:33:56,919 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:34:00,541 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:34:01,077 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:34:02,317 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:34:05,614 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:34:09,556 [main] INFO .\src\test\resources\input\log4j.properties - user selected the rating
+2022-06-25 12:34:12,872 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on continue button
+2022-06-25 12:34:16,795 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabFAILED
+2022-06-25 12:36:49,836 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-06-25 12:36:53,470 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-06-25 12:36:54,027 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-06-25 12:36:55,468 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on EOS Camera
+2022-06-25 12:36:58,774 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on view link
+2022-06-25 12:37:02,648 [main] INFO .\src\test\resources\input\log4j.properties - user selected the rating
+2022-06-25 12:37:05,899 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on continue button
+2022-06-25 12:37:08,949 [main] INFO .\src\test\resources\input\log4j.properties - User saw succes message
+2022-06-25 12:37:12,822 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item inDesktops tabPASSED
+2022-06-25 12:58:32,202 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 12:58:35,932 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 12:58:35,955 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 12:58:38,799 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-06-25 12:58:38,816 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-06-25 12:58:41,792 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-06-25 12:58:41,805 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-25 12:58:44,659 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000UNDEFINED
+2022-06-25 14:36:05,240 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-25 14:36:09,488 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changePENDING
+2022-06-25 14:36:09,498 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-25 14:36:12,612 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysPASSED
+2022-06-25 14:36:36,085 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 14:36:40,299 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 14:36:44,276 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 14:36:44,307 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 14:36:47,549 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-06-25 14:36:47,571 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-06-25 14:36:50,877 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-06-25 14:36:51,047 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-25 14:38:10,641 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 14:38:14,804 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 14:42:10,493 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 14:42:14,255 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 14:45:33,877 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 14:45:37,635 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPENDING
+2022-06-25 15:50:01,979 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 15:50:05,508 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 15:50:08,916 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 15:50:13,215 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 15:50:13,304 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 15:50:16,395 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-25 15:50:17,459 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 15:56:16,021 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 15:56:19,192 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 15:56:22,542 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 15:56:26,947 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 15:56:27,009 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 15:56:30,074 [main] INFO .\src\test\resources\input\log4j.properties - User saw Success message
+2022-06-25 15:56:30,861 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 16:04:44,023 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 16:04:47,267 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 16:04:50,601 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 16:04:54,816 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 16:04:54,867 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 16:04:58,580 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 16:16:27,462 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 16:16:30,891 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 16:16:34,288 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 16:16:38,689 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 16:16:38,792 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 16:16:42,717 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 16:18:53,185 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 16:18:56,353 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 16:18:59,717 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 16:19:04,117 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 16:19:04,210 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 16:19:08,129 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 16:20:53,364 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 16:20:56,839 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 16:21:00,230 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 16:21:04,645 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 16:21:04,748 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 16:21:08,632 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 16:26:15,939 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 16:26:19,287 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 16:26:22,669 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 16:26:27,415 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 16:26:27,538 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 16:26:31,454 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 16:47:16,568 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 16:47:20,046 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 16:47:23,423 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 16:47:28,360 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 16:47:28,470 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 16:47:32,373 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 17:02:17,960 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 17:02:21,745 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 17:02:25,166 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 17:02:29,469 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 17:02:29,541 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 17:02:33,255 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 17:33:13,201 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 17:33:16,735 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 17:33:20,181 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 17:33:26,619 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 17:33:26,696 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 17:33:30,486 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 17:33:42,873 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 17:33:45,784 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 17:33:49,228 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 17:34:03,115 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 17:34:03,217 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 17:34:06,986 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 18:01:17,501 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 18:01:23,377 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 18:01:27,199 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 18:01:31,832 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 18:01:31,954 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 18:01:35,965 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 18:03:03,572 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 18:03:07,182 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 18:03:10,567 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 18:03:15,117 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 18:03:15,222 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 18:03:18,339 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 18:03:21,408 [main] INFO .\src\test\resources\input\log4j.properties - User saw item to cart message
+2022-06-25 18:03:24,483 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-06-25 18:03:28,333 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 18:06:12,273 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 18:06:15,885 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 18:06:19,342 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 18:06:23,885 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 18:06:24,006 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 18:06:27,121 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 18:06:30,214 [main] INFO .\src\test\resources\input\log4j.properties - User saw item to cart message
+2022-06-25 18:06:33,287 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-06-25 18:06:37,143 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 18:08:11,311 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 18:08:14,974 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 18:08:18,705 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 18:08:23,355 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 18:08:23,472 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 18:08:26,587 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 18:08:29,676 [main] INFO .\src\test\resources\input\log4j.properties - User saw item to cart message
+2022-06-25 18:08:32,757 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-06-25 18:08:35,838 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on red button
+2022-06-25 18:08:39,709 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartUNDEFINED
+2022-06-25 18:09:06,803 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 18:09:10,399 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 18:09:14,211 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 18:09:18,869 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 18:09:18,984 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 18:09:22,095 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 18:09:25,171 [main] INFO .\src\test\resources\input\log4j.properties - User saw item to cart message
+2022-06-25 18:09:28,253 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-06-25 18:09:31,334 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on red button
+2022-06-25 18:09:35,232 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartFAILED
+2022-06-25 18:10:58,258 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 18:11:01,885 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 18:11:05,314 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 18:11:10,083 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 18:11:10,195 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 18:11:13,302 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 18:11:16,377 [main] INFO .\src\test\resources\input\log4j.properties - User saw item to cart message
+2022-06-25 18:11:19,451 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-06-25 18:11:22,524 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on red button
+2022-06-25 18:11:25,591 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 18:11:29,444 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-06-25 22:04:35,913 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-06-25 22:04:42,488 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 22:04:45,835 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 22:04:50,308 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MackBook Item
+2022-06-25 22:04:50,388 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-06-25 22:04:53,505 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 22:04:56,571 [main] INFO .\src\test\resources\input\log4j.properties - User saw item to cart message
+2022-06-25 22:04:59,649 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on cart option
+2022-06-25 22:05:02,718 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on red button
+2022-06-25 22:05:05,776 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-06-25 22:05:09,604 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from CartPASSED
+2022-06-25 22:18:56,940 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 22:19:00,065 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 22:19:03,491 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 22:19:07,259 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-06-25 22:53:42,337 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 22:53:45,742 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 22:53:49,107 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 22:53:52,199 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Comparision
+2022-06-25 22:53:55,281 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air Comparision
+2022-06-25 22:53:59,089 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonUNDEFINED
+2022-06-25 22:56:43,650 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 22:56:47,032 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 22:56:50,421 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 22:56:53,503 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Comparision
+2022-06-25 22:56:56,588 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air Comparision
+2022-06-25 22:56:59,725 [main] INFO .\src\test\resources\input\log4j.properties - User saw Comparision success Message
+2022-06-25 22:57:03,057 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on comparision link
+2022-06-25 22:57:06,167 [main] INFO .\src\test\resources\input\log4j.properties - User saw comparision Chart
+2022-06-25 22:57:09,985 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-06-25 23:02:06,674 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-06-25 23:02:10,220 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 23:02:13,743 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 23:02:17,563 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-06-25 23:03:25,777 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-06-25 23:03:32,386 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 23:03:35,840 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 23:03:39,623 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listUNDEFINED
+2022-06-25 23:18:34,858 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-25 23:18:38,897 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changePENDING
+2022-06-25 23:18:38,911 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-25 23:18:42,232 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysPASSED
+2022-06-25 23:19:45,150 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-06-25 23:19:48,551 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 23:19:52,034 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 23:19:55,110 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on wish list option
+2022-06-25 23:19:58,242 [main] INFO .\src\test\resources\input\log4j.properties - User saw Wish list Message
+2022-06-25 23:20:01,981 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish listPASSED
+2022-06-25 23:36:43,451 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 23:36:46,796 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 23:36:50,202 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 23:36:53,273 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Comparision
+2022-06-25 23:36:56,348 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air Comparision
+2022-06-25 23:36:59,479 [main] INFO .\src\test\resources\input\log4j.properties - User saw Comparision success Message
+2022-06-25 23:37:02,787 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on comparision link
+2022-06-25 23:37:05,881 [main] INFO .\src\test\resources\input\log4j.properties - User saw comparision Chart
+2022-06-25 23:37:09,794 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-06-25 23:40:57,418 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 23:41:00,545 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 23:41:03,981 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 23:41:07,051 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Comparision
+2022-06-25 23:41:10,142 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air Comparision
+2022-06-25 23:41:13,263 [main] INFO .\src\test\resources\input\log4j.properties - User saw Comparision success Message
+2022-06-25 23:41:16,536 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on comparision link
+2022-06-25 23:41:19,653 [main] INFO .\src\test\resources\input\log4j.properties - User saw comparision Chart
+2022-06-25 23:41:23,617 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-06-25 23:45:25,705 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-06-25 23:45:29,105 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-25 23:45:32,459 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-25 23:45:35,537 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Comparision
+2022-06-25 23:45:38,600 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Air Comparision
+2022-06-25 23:45:41,721 [main] INFO .\src\test\resources\input\log4j.properties - User saw Comparision success Message
+2022-06-25 23:45:45,026 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on comparision link
+2022-06-25 23:45:48,137 [main] INFO .\src\test\resources\input\log4j.properties - User saw comparision Chart
+2022-06-25 23:45:52,207 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product ComparisonPASSED
+2022-06-26 00:04:53,974 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-26 00:04:57,173 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-26 00:05:00,525 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-26 00:05:04,247 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000UNDEFINED
+2022-06-26 00:09:05,994 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-26 00:09:09,633 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Loptop NoteBook Option
+2022-06-26 00:09:13,133 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show All options
+2022-06-26 00:09:17,529 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on MacBook Pro icon
+2022-06-26 00:09:20,627 [main] INFO .\src\test\resources\input\log4j.properties - User saw MacBook pro price is 2000
+2022-06-26 00:09:24,615 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000PASSED
+2022-06-26 14:55:55,124 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-26 14:56:29,578 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changeFAILED
+2022-06-26 14:59:24,990 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-26 14:59:29,247 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changeUNDEFINED
+2022-06-26 14:59:52,443 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-26 14:59:55,879 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency option
+2022-06-26 15:00:00,636 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Euro currency
+2022-06-26 15:00:03,761 [main] INFO .\src\test\resources\input\log4j.properties - User validate Currency changed to Euro
+2022-06-26 15:00:07,913 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changePASSED
+2022-06-26 15:00:23,963 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-26 15:00:27,670 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency option
+2022-06-26 15:00:31,157 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Euro currency
+2022-06-26 15:00:34,245 [main] INFO .\src\test\resources\input\log4j.properties - User validate Currency changed to Euro
+2022-06-26 15:00:38,346 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changePASSED
+2022-06-26 15:08:51,022 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-26 15:08:54,429 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency option
+2022-06-26 15:08:57,858 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Euro currency
+2022-06-26 15:09:31,819 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changeFAILED
+2022-06-26 15:58:28,031 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-26 15:58:56,575 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysFAILED
+2022-06-26 15:59:05,725 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-26 15:59:17,132 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysFAILED
+2022-06-26 15:59:55,810 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-26 16:00:16,471 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysFAILED
+2022-06-26 16:03:50,667 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-26 16:03:54,664 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Shopping Cart Option
+2022-06-26 16:03:58,585 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysFAILED
+2022-06-26 16:12:21,315 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-26 16:12:24,711 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Shopping Cart Option
+2022-06-26 16:12:28,618 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysFAILED
+2022-06-26 16:13:56,918 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-26 16:14:00,461 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Shopping Cart Option
+2022-06-26 16:14:03,560 [main] INFO .\src\test\resources\input\log4j.properties - User saw shopping cart message
+2022-06-26 16:14:07,538 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displaysPASSED
+2022-06-27 19:09:13,157 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-27 19:09:13,339 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-27 19:09:23,307 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-27 19:09:23,433 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-27 19:09:23,609 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-27 19:09:23,715 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-27 19:09:27,231 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login option
+2022-06-27 19:09:27,363 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login option
+2022-06-27 19:09:30,508 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName haroonsadiq1@gmail.com
+2022-06-27 19:09:30,648 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName haroonsadiq1@gmail.com
+2022-06-27 19:09:30,968 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  sadiq123
+2022-06-27 19:09:31,358 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  sadiq123
+2022-06-27 19:09:34,836 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-06-27 19:09:35,431 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-06-27 19:09:35,607 [main] INFO .\src\test\resources\input\log4j.properties - user Successfully loged in to myAccount
+2022-06-27 19:09:36,298 [main] INFO .\src\test\resources\input\log4j.properties - User clicked affilate link
+2022-06-27 19:09:36,443 [main] INFO .\src\test\resources\input\log4j.properties - user Successfully loged in to myAccount
+2022-06-27 19:09:37,077 [main] INFO .\src\test\resources\input\log4j.properties - User clicked affilate link
+2022-06-27 19:10:07,161 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-27 19:10:07,202 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-27 19:10:09,787 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-27 19:10:09,887 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-27 19:10:12,492 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodFAILED
+2022-06-27 19:10:12,526 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-27 19:10:15,717 [main] INFO .\src\test\resources\input\log4j.properties - Test Environment log is Present
+2022-06-27 19:10:15,855 [main] INFO .\src\test\resources\input\log4j.properties - User clicked On My Account
+2022-06-27 19:10:19,146 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login option
+2022-06-27 19:10:21,313 [main] INFO .\src\test\resources\input\log4j.properties - user enter the userName haroonsadiq1@gmail.com
+2022-06-27 19:10:21,452 [main] INFO .\src\test\resources\input\log4j.properties - user enter the password  sadiq123
+2022-06-27 19:10:25,028 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Login button
+2022-06-27 19:10:25,357 [main] INFO .\src\test\resources\input\log4j.properties - user Successfully loged in to myAccount
+2022-06-27 19:10:25,846 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on 'Edit your affiliate information' link
+2022-06-27 19:21:50,521 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-06-27 19:21:53,912 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Register as an Affiliate user with Cheque Payment MethodUNDEFINED
+2022-06-27 19:21:53,942 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-06-27 19:21:56,542 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank TransferUNDEFINED
+2022-06-27 19:21:56,558 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account Information started
+2022-06-27 19:21:59,426 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Edit your account InformationUNDEFINED
+2022-06-27 19:24:57,880 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-27 19:25:02,332 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values changeUNDEFINED
+2022-07-03 12:07:04,007 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-03 12:07:09,477 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-07-03 12:07:09,819 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-07-03 12:07:09,876 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to cart
+2022-07-03 12:07:14,298 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on color
+2022-07-03 12:07:17,946 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-07-03 12:07:21,014 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-07-03 12:07:21,792 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartPASSED
+2022-07-03 12:08:50,592 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-03 12:08:54,199 [main] INFO .\src\test\resources\input\log4j.properties - User move to Desktop Option
+2022-07-03 12:08:54,572 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Show all desktop option
+2022-07-03 12:08:54,630 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on add to cart
+2022-07-03 12:08:58,898 [main] INFO .\src\test\resources\input\log4j.properties - user clicked on color
+2022-07-03 12:09:02,361 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on Add to cart Button
+2022-07-03 12:09:05,451 [main] INFO .\src\test\resources\input\log4j.properties - User saw success message
+2022-07-03 12:09:06,179 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartPASSED
